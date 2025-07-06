@@ -20,16 +20,14 @@ into structured, conflict-free calendar events — with optional fallback times 
 
 ## 🚀 Quickstart
 
-1. **Clone the repository**  
-   ```bash
-  git clone https://github.com/yourusername/chronos-ai.git
+1. **Clone the repository**
 
-2.	Open Chronos_AI.ipynb in Google Colab
+2. Open Chronos_AI.ipynb in Google Colab
 Make sure to upload:
 	•	Your credentials.json (OAuth2 credentials from Google Cloud Console)
 	•	Your OpenAI API Key (insert into environment variable in Cell 1)
 
-3.	Follow Setup Instructions in Notebook
+3. Follow Setup Instructions in Notebook
 The notebook will guide you through:
 	•	Authentication
 	•	Required installs
