@@ -1,15 +1,8 @@
-# ChronosAI
-Chronos AI is a natural language scheduling assistant using OpenAI, LangChain, and Google Calendar. It turns user prompts into conflict-free events with optional fallback planning and buffer logic.
-
-
-
 # 📄 README.md for Chronos AI
 
 # ⏳ Chronos AI – Autonomous Scheduling Agent
 
-Chronos AI is a natural language-powered scheduling assistant built with **OpenAI**
-
-**LangChain**, and the **Google Calendar API**. It transforms user prompts like  
+Chronos AI is a natural language-powered scheduling assistant built with **OpenAI**, **LangChain**, and the **Google Calendar API**. It transforms user prompts like  
 `"Schedule 3 coding sessions and 2 workouts next week"`  
 into structured, conflict-free calendar events — with optional fallback times and buffer logic.
 
