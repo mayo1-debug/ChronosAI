@@ -29,7 +29,7 @@ Make sure to upload:
 	•	Your credentials.json (OAuth2 credentials from Google Cloud Console)
 	•	Your OpenAI API Key (insert into environment variable in Cell 1)
 
-4. Follow Setup Instructions in Notebook
+3. Follow Setup Instructions in Notebook
 
 The notebook will guide you through:
 
