@@ -30,7 +30,9 @@ Make sure to upload:
 	•	Your OpenAI API Key (insert into environment variable in Cell 1)
 
 4. Follow Setup Instructions in Notebook
+
 The notebook will guide you through:
+
 	•	Authentication
 	•	Required installs
 	•	Prompt examples
@@ -38,6 +40,7 @@ The notebook will guide you through:
 ⸻
 
 📦 Requirements
+
 	•	Python 3.9+
 	•	OpenAI Python SDK
 	•	LangChain
@@ -45,11 +48,10 @@ The notebook will guide you through:
 	•	TinyDB
 	•	dateparser
 
-Install dependencies with:
-
-pip install -r requirements.txt
+Install dependencies with: pip install -r requirements.txt
 
 ⚠️ Limitations
+
 	•	This is a prototype notebook: not designed for production use.
 	•	Agent flow is currently inefficient (event blocks are created before conflict checking).
 	•	Memory is handled via TinyDB (.json) and not yet scalable.
