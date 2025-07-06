@@ -46,7 +46,6 @@ The notebook will guide you through:
 	•	TinyDB
 	•	dateparser
 
-Install dependencies with: pip install -r requirements.txt
 
 ⚠️ Limitations
 
